@@ -1,0 +1,24 @@
+{
+  "name": "slaytea",
+  "version": "1.0.0",
+  "description": "This is something intresting where i demonstrate basic application beatches :D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javiVergara/slaytea.git"
+  },
+  "dependencies": {
+    "slaytea": "1.0.0",
+    "herewegotea": "1.0.0",
+    "project_tea_demonstration_omg": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javiVergara/slaytea/issues"
+  },
+  "homepage": "https://github.com/javiVergara/slaytea#readme"
+}
